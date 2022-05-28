@@ -1,0 +1,22 @@
+{
+  "name": "Blox",
+  "version": "1.0.0",
+  "description": "Generator Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Rose",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "@replit/database": "^2.0.1",
+    "chalk": "^4.1.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "google": "^2.1.0",
+    "something-random-on-discord": "^3.4.4"
+  }
+}
